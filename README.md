@@ -8,7 +8,6 @@ I'm full stack developer who loves to build dynamic apps!
 - 🔨 I'm also developing in the backend with `GraphQL` and server development with `Apollo`.
 - 📚 I'm currently learning `Python` to broaden my skills as a developer.
 - 🏁 My goals for 2023: Launch my own full stack application.
-- ⭐️ Fun fact about me: I love to cook and treat coding like cooking 😂
 
 ### 📱 Connection:
 
