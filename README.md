@@ -1,7 +1,8 @@
 # Hey 👋 I'm Zak.
 
 I'm full stack developer who loves to build dynamic apps! 
-## 👨‍💻 Me:
+
+## 👨‍💻 About Me:
 
 - 💻 I’m currently building web application with `TypeScript` & `React` frameworks like `Remix`, & `Next.js`.
 - 🔨 I'm also developing in the backend with `GraphQL` and server development with `Apollo`.
