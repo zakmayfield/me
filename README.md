@@ -32,8 +32,8 @@ I'm full stack developer who loves to build dynamic apps!
 
 <!-- Add shields to your GitHub [here](https://shields.io/) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakmayfield&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/zakmayfield/github-readme-stats)
-[![antonyk's github stats](https://github-readme-stats.vercel.app/api?username=zakmayfield&show_icons=true&theme=vision-friendly-dark)](https://github.com/zakmayfield/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakmayfield&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/zakmayfield/github-readme-stats)
+[![antonyk's github stats](https://github-readme-stats.vercel.app/api?username=zakmayfield&show_icons=true&theme=vision-friendly-dark)](https://github.com/zakmayfield/github-readme-stats) -->
 
 <!--Add stats to your GitHub [here](https://github.com/anuraghazra/github-readme-stats) -->
 
