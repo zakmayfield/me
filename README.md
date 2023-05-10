@@ -1,6 +1,6 @@
 # Hey 👋 I'm Zak.
 
-I'm front end / full stack developer, who builds with languages like TypeScript, Node.js, & React. 
+I'm front end / full stack developer, who builds with languages like `TypeScript`, `Node.js`, & `React`. 
 
 ## About Me:
 
