@@ -1,15 +1,15 @@
 # Hey 👋 I'm Zak.
 
-I'm full stack developer who loves to build dynamic apps! 
+I'm front end / full stack developer, who builds with languages like TypeScript, Node.js, & React. 
 
-## 👨‍💻 About Me:
+## About Me:
 
-- 💻 I’m currently building web application with `TypeScript` & `React` frameworks like `Remix`, & `Next.js`.
-- 🔨 I'm also developing in the backend with `GraphQL` and server development with `Apollo`.
-- 📚 I'm currently learning `Python` to broaden my skills as a developer.
+- 💻 I’m currently building web applications with `TypeScript` & `React` frameworks like `Remix`, & `Next.js`.
+- 🔨 I'm building on the back end with Node.js frameworks like `Nest.js`
+- 📚 I'm currently learning `Python` -> `Django` to broaden my skills as a developer.
 - 🏁 My goals for 2023: Launch my own full stack application.
 
-### 📱 Connection:
+### Connection:
 
 [<img align="left" alt="E-Mail" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -22,14 +22,6 @@ I'm full stack developer who loves to build dynamic apps!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-### 🧰 Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
 <!-- Add shields to your GitHub [here](https://shields.io/) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakmayfield&theme=vision-friendly-dark&hide=tsql,html)](https://github.com/zakmayfield/github-readme-stats)
