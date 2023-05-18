@@ -7,7 +7,6 @@ I'm front end / full stack developer, who builds with languages like `TypeScript
 - 💻 I’m currently building web applications with `TypeScript` & `React` frameworks like `Remix`, & `Next.js`.
 - 🔨 I'm building on the back end with Node.js frameworks like `Nest.js`
 - 📚 I'm currently learning `Python` -> `Django` to broaden my skills as a developer.
-- 🏁 My goals for 2023: Launch my own full stack application.
 
 ### Connection:
 
